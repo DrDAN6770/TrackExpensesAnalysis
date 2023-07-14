@@ -6,6 +6,13 @@
   * 時間範圍長達一季、半年、一年以上，難以用肉眼判斷
   * 客製化自己想看的結果，趨勢、大幅支出的月份、分析大幅變動的理由等等
 
+# 部分結果
+![image](https://github.com/DrDAN6770/TrackExpensesAnalysis/assets/118630187/cc31e70d-aca5-48f3-bfc4-3e48bbf68f74)
+
+![image](https://github.com/DrDAN6770/TrackExpensesAnalysis/assets/118630187/61730d81-199c-483d-a4b9-6fc98690eb10)
+
+![image](https://github.com/DrDAN6770/TrackExpensesAnalysis/assets/118630187/4d2308a0-5b27-4d4b-9b5c-7c95a2cbbfbe)
+
 # data來源
 自己平常日常記帳(透過APP)，彙整成csv檔案傳送至目標信箱
 
